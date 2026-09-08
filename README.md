@@ -1,4 +1,4 @@
-# Welcome to ○팀
+# Welcome to E26-SW01-10
 
 ## 🎯 팀 슬로건
 

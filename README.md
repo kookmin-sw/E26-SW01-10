@@ -1,4 +1,4 @@
-# Welcome to E26-SW01-10 •A+ 받고 10죠
+# Welcome to E26-SW01-10 
 
 ## 🎯 팀 슬로건
 

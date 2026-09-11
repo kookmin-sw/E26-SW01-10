@@ -4,7 +4,7 @@
 
 > A+ 받고 10죠
 
-## 🖼️ 팀 포스터
+## 🖼️ 팀 포스터dsd
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 

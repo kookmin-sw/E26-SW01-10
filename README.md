@@ -6,7 +6,7 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="llm_security_poster (1).png" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="llm_security_poster (2).png" alt="팀 포스터" width="600"/></div>
 
 >A+ 받고 10죠의 2050년 미래 상상 팀 포스터 
 

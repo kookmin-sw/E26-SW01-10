@@ -72,6 +72,9 @@
 
 -2000년대 미래 상상 분석
 
+-2050년 상상하기 
+<img src=
+
 <!-- 활동 사진 추가 예시 -->
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
